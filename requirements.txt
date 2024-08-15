@@ -3,3 +3,5 @@ pandas
 joblib
 datetime
 openmeteo_requests
+scikit-learn
+lightgbm
