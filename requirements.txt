@@ -5,3 +5,4 @@ datetime
 openmeteo_requests
 scikit-learn
 lightgbm
+matplotlib
