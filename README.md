@@ -2,6 +2,12 @@
 
 Este proyecto utiliza un modelo de machine learning para predecir la demanda de taxis en la ciudad de Nueva York basándose en datos históricos y condiciones climáticas actuales. Fue desarrollado utilizando Python y Streamlit para una interfaz interactiva.
 
+## Ejecutar la App en Streamlit
+
+La App ha sido desplegada utilizando Streamlit Cloud. Puedes acceder en el siguiente enlace:
+
+[https://pi2-dataanalysis-internet.streamlit.app/](https://prediccion-demanda-taxis-nyc.streamlit.app/)
+
 ## Descripción del Proyecto
 
 La aplicación permite a los usuarios:
